@@ -1,6 +1,6 @@
 ## Hello!
 
-My name's Paul and I'm currently an astronomer at Texas A&M University and in the process of transitioning to data science!
+My name's Paul and I'm currently an astronomer at Texas A&M University and in the process of transitioning to data science! Below you can find a list of the places I've been and the things I've done. If you want to get in touch or learn more, please reach out to me at pzivick@gmail.com!
 
 ### Employment
 - Postdoctoral Research Associate @ Texas A&M University
